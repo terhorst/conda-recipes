@@ -11,3 +11,4 @@ fi
 make
 make check
 make install
+cp gmpxx.h $PREFIX/include
